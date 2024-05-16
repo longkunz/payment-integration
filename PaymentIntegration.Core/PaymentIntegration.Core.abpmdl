@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "PaymentIntegration.Core.Domain.Shared": {
+      "path": "src/PaymentIntegration.Core.Domain.Shared/PaymentIntegration.Core.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.Domain": {
+      "path": "src/PaymentIntegration.Core.Domain/PaymentIntegration.Core.Domain.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.Application.Contracts": {
+      "path": "src/PaymentIntegration.Core.Application.Contracts/PaymentIntegration.Core.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.Application": {
+      "path": "src/PaymentIntegration.Core.Application/PaymentIntegration.Core.Application.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.EntityFrameworkCore": {
+      "path": "src/PaymentIntegration.Core.EntityFrameworkCore/PaymentIntegration.Core.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.MongoDB": {
+      "path": "src/PaymentIntegration.Core.MongoDB/PaymentIntegration.Core.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.HttpApi": {
+      "path": "src/PaymentIntegration.Core.HttpApi/PaymentIntegration.Core.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.HttpApi.Client": {
+      "path": "src/PaymentIntegration.Core.HttpApi.Client/PaymentIntegration.Core.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "PaymentIntegration.Core.TestBase": {
+      "path": "test/PaymentIntegration.Core.TestBase/PaymentIntegration.Core.TestBase.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.EntityFrameworkCore.Tests": {
+      "path": "test/PaymentIntegration.Core.EntityFrameworkCore.Tests/PaymentIntegration.Core.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.MongoDB.Tests": {
+      "path": "test/PaymentIntegration.Core.MongoDB.Tests/PaymentIntegration.Core.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.Domain.Tests": {
+      "path": "test/PaymentIntegration.Core.Domain.Tests/PaymentIntegration.Core.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.Application.Tests": {
+      "path": "test/PaymentIntegration.Core.Application.Tests/PaymentIntegration.Core.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.HttpApi.Host": {
+      "path": "host/PaymentIntegration.Core.HttpApi.Host/PaymentIntegration.Core.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "PaymentIntegration.Core.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/PaymentIntegration.Core.HttpApi.Client.ConsoleTestApp/PaymentIntegration.Core.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "PaymentIntegration.Core.AuthServer": {
+      "path": "host/PaymentIntegration.Core.AuthServer/PaymentIntegration.Core.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "PaymentIntegration.Core.Host.Shared": {
+      "path": "host/PaymentIntegration.Core.Host.Shared/PaymentIntegration.Core.Host.Shared.abppkg",
+      "folder": "host"
+    }
+  }
+}

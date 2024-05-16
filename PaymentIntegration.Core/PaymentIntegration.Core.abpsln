@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "PaymentIntegration.Core": {
+      "path": "PaymentIntegration.Core.abpmdl"
+    }
+  }
+}
